@@ -1,0 +1,5 @@
+﻿
+(778438 rows affected)
+778438 comentarios fueron eliminados
+
+Completion time: 2024-07-17T21:39:12.4689942-04:00
